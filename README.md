@@ -7,9 +7,17 @@
    
     - intialise the Project and making him work
    
-# Languages 
-  * Kotlin 
+# What this App do ? 
   
+  check this Website for more informations : 
+  (english) 
+  https://www.tipwho.com/article/tip-calculator/
+  (Arabic) 
+  https://www.tipwho.com/ar/article/tip-calculator/
+
 # Application 
   
- 
+![Untitled](https://user-images.githubusercontent.com/75635578/124800078-24ee3980-df4d-11eb-8571-3d9fb9a37598.png)
+
+# Languages 
+  *Kotlin

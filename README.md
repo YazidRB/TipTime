@@ -9,10 +9,11 @@
    
 # What this App do ? 
   
-  check this Website for more informations : 
-  (english) 
-  https://www.tipwho.com/article/tip-calculator/
-  (Arabic) 
+  -check this Website for more informations : \
+  (english):      \
+   https://www.tipwho.com/article/tip-calculator/
+  \
+  \(Arabic) \
   https://www.tipwho.com/ar/article/tip-calculator/
 
 # Application 

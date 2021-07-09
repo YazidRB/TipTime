@@ -5,7 +5,9 @@
 # informations : 
    * version 1 (2021/07/07) : 
    
-    - intialise the Project and making him work
+    - Create the Project and making him work (functionality)
+    - Create an application prototype 
+    - Create prototype Views 
    
 # What this App do ? 
   
